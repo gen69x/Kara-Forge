@@ -1,0 +1,11 @@
+{
+  "onclite": {
+    "kernel_repo": "https://github.com/gen69x/Project-KARA",
+    "kernel_branch": "Kara-BakaSU",
+    "defconfig": "onclite-perf_defconfig",
+    "arch": "arm64",
+    "clang_version": "proton",
+    "kernel_version": "4.9",
+    "variants": ["ksu"]
+  }
+}
